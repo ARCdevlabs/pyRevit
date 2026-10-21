@@ -6,13 +6,10 @@
     "name": "pyRevitTools",
     "description": "IronPython Scripts for Autodesk Revit",
     "author": "Ehsan Iran-Nejad",
-    "author_profile": "https://keybase.io/ein",
-    "url": "https://github.com/pyrevitlabs/pyRevit.git",
-    "website": "http://pyrevitlabs.github.io/pyRevit/",
+    "author_profile": "https://github.com/ARCdevlabs/pyRevit.git",
+    "url": "https://github.com/ARCdevlabs/pyRevit.git",
+    "website": "https://github.com/ARCdevlabs/pyRevit.git",
     "image": "",
-    "templates": {
-        "author": "Ehsan Iran-Nejad",
-        "docpath": "https://www.youtube.com/watch?v="
-    },
+    "templates": {"author": "Ehsan Iran-Nejad","docpath": "https://www.youtube.com/watch?v="},
     "dependencies": []
 }
